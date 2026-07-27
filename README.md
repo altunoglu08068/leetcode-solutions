@@ -12,9 +12,9 @@ Veri yapıları ve algoritmalar konusundaki pratiklerimi ve LeetCode çözümler
 | Zorluk (Difficulty) | Çözülen Soru Sayısı |
 | :--- | :---: |
 | 🟢 **Easy** | 1 |
-| 🟡 **Medium** | 0 |
+| 🟡 **Medium** | 1 |
 | 🔴 **Hard** | 0 |
-| 🏆 **Toplam** | **1** |
+| 🏆 **Toplam** | **2** |
 
 ---
 
@@ -22,7 +22,6 @@ Veri yapıları ve algoritmalar konusundaki pratiklerimi ve LeetCode çözümler
 
 ```text
 .
-├── 🟢 Easy/
-│   └── 0001-Two-Sum/
-├── 🟡 Medium/
-└── 🔴 Hard/
+├── 🟢 Easy/           # Kolay seviye çözümler
+├── 🟡 Medium/         # Orta seviye çözümler
+└── 🔴 Hard/           # Zor seviye çözümler

@@ -18,15 +18,6 @@ Veri yapıları ve algoritmalar konusundaki pratiklerimi ve LeetCode çözümler
 
 ---
 
-## 📂 Çözülen Sorular Index
-
-| # | Problem | Zorluk | Çözüm / Detay | Konu |
-| :-: | :--- | :-: | :-: | :--- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0001-Two-Sum/) | Array, Hash Table |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0009-Palindrome-Number/) | Math |
-
----
-
 ## 📂 Klasör Yapısı
 
 ```text

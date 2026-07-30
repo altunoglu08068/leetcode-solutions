@@ -11,10 +11,10 @@ LeetCode platformunda çözdüğüm algoritmalar ve veri yapıları problemlerin
 
 | Zorluk (Difficulty) | Çözülen Soru Sayısı |
 | :--- | :---: |
-| 🟢 **Easy** | 2 |
+| 🟢 **Easy** | 3 |
 | 🟡 **Medium** | 2 |
 | 🔴 **Hard** | 1 |
-| 🏆 **Toplam** | **5** |
+| 🏆 **Toplam** | **6** |
 
 ---
 
@@ -27,3 +27,4 @@ LeetCode platformunda çözdüğüm algoritmalar ve veri yapıları problemlerin
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | [Solution.cs](./🟡%20Medium/0003-Longest-Substring-Without-Repeating-Characters/) | Hash Table, String, Sliding Window |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | [Solution.cs](./🔴%20Hard/0004-Median-of-Two-Sorted-Arrays/) | Array, Binary Search, Divide and Conquer |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0009-Palindrome-Number/) | Math |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0013-Roman-to-Integer/) | Hash Table, Math, String |

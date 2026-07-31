@@ -12,9 +12,9 @@ LeetCode platformunda çözdüğüm algoritmalar ve veri yapıları problemlerin
 | Zorluk (Difficulty) | Çözülen Soru Sayısı |
 | :--- | :---: |
 | 🟢 **Easy** | 3 |
-| 🟡 **Medium** | 3 |
+| 🟡 **Medium** | 4 |
 | 🔴 **Hard** | 1 |
-| 🏆 **Toplam** | **7** |
+| 🏆 **Toplam** | **8** |
 
 ---
 
@@ -28,4 +28,5 @@ LeetCode platformunda çözdüğüm algoritmalar ve veri yapıları problemlerin
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | [Solution.cs](./🔴%20Hard/0004-Median-of-Two-Sorted-Arrays/) | Array, Binary Search, Divide and Conquer |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | [Solution.cs](./🟡%20Medium/0007-Reverse-Integer/) | Math |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0009-Palindrome-Number/) | Math |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | [Solution.cs](./🟡%20Medium/0011-Container-With-Most-Water/) | Array, Two Pointers, Greedy |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0013-Roman-to-Integer/) | Hash Table, Math, String |

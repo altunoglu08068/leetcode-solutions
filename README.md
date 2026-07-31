@@ -12,9 +12,9 @@ LeetCode platformunda çözdüğüm algoritmalar ve veri yapıları problemlerin
 | Zorluk (Difficulty) | Çözülen Soru Sayısı |
 | :--- | :---: |
 | 🟢 **Easy** | 3 |
-| 🟡 **Medium** | 2 |
+| 🟡 **Medium** | 3 |
 | 🔴 **Hard** | 1 |
-| 🏆 **Toplam** | **6** |
+| 🏆 **Toplam** | **7** |
 
 ---
 
@@ -26,5 +26,6 @@ LeetCode platformunda çözdüğüm algoritmalar ve veri yapıları problemlerin
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | [Solution.cs](./🟡%20Medium/0002-Add-Two-Numbers/) | Linked List, Math |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | [Solution.cs](./🟡%20Medium/0003-Longest-Substring-Without-Repeating-Characters/) | Hash Table, String, Sliding Window |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | [Solution.cs](./🔴%20Hard/0004-Median-of-Two-Sorted-Arrays/) | Array, Binary Search, Divide and Conquer |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | [Solution.cs](./🟡%20Medium/0007-Reverse-Integer/) | Math |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0009-Palindrome-Number/) | Math |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0013-Roman-to-Integer/) | Hash Table, Math, String |

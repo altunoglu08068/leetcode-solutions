@@ -11,10 +11,10 @@ LeetCode platformunda çözdüğüm algoritmalar ve veri yapıları problemlerin
 
 | Zorluk (Difficulty) | Çözülen Soru Sayısı |
 | :--- | :---: |
-| 🟢 **Easy** | 4 |
+| 🟢 **Easy** | 5 |
 | 🟡 **Medium** | 4 |
 | 🔴 **Hard** | 1 |
-| 🏆 **Toplam** | **9** |
+| 🏆 **Toplam** | **10** |
 
 ---
 
@@ -31,3 +31,4 @@ LeetCode platformunda çözdüğüm algoritmalar ve veri yapıları problemlerin
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | [Solution.cs](./🟡%20Medium/0011-Container-With-Most-Water/) | Array, Two Pointers, Greedy |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0013-Roman-to-Integer/) | Hash Table, Math, String |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0020-Valid-Parentheses/) | String, Stack |
+| 0258 | [Add Digits](https://leetcode.com/problems/add-digits/) | 🟢 Easy | [Solution.cs](./🟢%20Easy/0258-Add-Digits/) | Math, Number Theory, Simulation |
